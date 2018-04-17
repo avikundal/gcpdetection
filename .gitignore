@@ -1,0 +1,9 @@
+# Ignore ide directories
+.idea/
+
+# Ignore folder contents but keep folder
+input/*
+!input/.keep
+
+# Ignore output file
+GCP_pixel_indices.csv
