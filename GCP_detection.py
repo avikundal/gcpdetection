@@ -1,6 +1,5 @@
 import os
 import csv
-import argparse
 
 import cv2
 import numpy as np
